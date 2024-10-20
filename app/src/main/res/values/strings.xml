@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ProjetoAndroid05_2</string>
+    <string name="nome">Rodrigo Fortunato Martins Neves</string>
+    <string name="ra">1110482313035</string>
+    <string name="btnCalcular">Calcular</string>
+    <string name="etValorBits">Valor em bits</string>
+</resources>
